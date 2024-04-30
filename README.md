@@ -50,8 +50,7 @@ Source: https://www.kaggle.com/c/quora-question-pairs#evaluation
 
 Metric(s):
 
-1. log-loss: https://www.kaggle.com/wiki/LogarithmicLoss
-
+1. log-loss
 2. Binary Confusion Matrix
 
 #### 2.3 Train and Test Construction
