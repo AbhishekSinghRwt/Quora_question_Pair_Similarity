@@ -46,10 +46,6 @@ Number of rows in Train.csv = 404,290
 It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not.
 
 #### 2.2.2 Performance Metric
-Source: https://www.kaggle.com/c/quora-question-pairs#evaluation
-
-Metric(s):
-
 1. log-loss
 2. Binary Confusion Matrix
 
